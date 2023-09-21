@@ -1,0 +1,51 @@
+Date,Product id,Unit Sales,Promotion Type,,Seasonal Trend,,Economic Indicator,,total_price,base_price,store_id
+01-01-2023,1001,150,New Year Sale,,Winter,,Low Unemployment,,99.0375,111.8625,8091
+02-01-2023,1002,200,New Year Sale,,Winter,,Low Unemployment,,99.0375,99.0375,8091
+03-01-2023,1003,180,New Year Sale,,Winter,,Low Unemployment,,133.95,133.95,8091
+04-01-2023,1004,220,New Year Sale,,Winter,,Low Unemployment,,133.95,133.95,8091
+05-01-2023,1005,170,New Year Sale,,Winter,,Low Unemployment,,141.075,141.075,8091
+06-01-2023,1001,160,Winter Clearance,,Spring,,Low Unemployment,,227.2875,227.2875,8091
+07-01-2023,1002,210,Winter Clearance,,Spring,,Low Unemployment,,327.0375,327.0375,8091
+08-01-2023,1003,185,Winter Clearance,,Spring,,Low Unemployment,,210.9,210.9,8091
+09-01-2023,1004,230,Winter Clearance,,Spring,,Low Unemployment,,190.2375,234.4125,8091
+10-01-2023,1005,175,Winter Clearance,,Spring,,Low Unemployment,,99.0375,99.0375,8095
+11-01-2023,1001,155,Regular,,Spring,,Low Unemployment,,97.6125,97.6125,8095
+12-01-2023,1002,195,Regular,,Spring,,Low Unemployment,,98.325,98.325,8095
+13-01-2023,1003,175,Regular,,Spring,,Low Unemployment,,133.2375,133.2375,8095
+14-01-2023,1004,210,Regular,,Spring,,Low Unemployment,,133.95,133.95,8095
+15-01-2023,1005,160,Regular,,Spring,,Low Unemployment,,139.65,139.65,8095
+16-01-2023,1001,165,Valentine's Day,,Spring,,Low Unemployment,,236.55,280.0125,8095
+17-01-2023,1002,215,Valentine's Day,,Summer,,Low Unemployment,,214.4625,214.4625,8095
+18-01-2023,1003,190,Valentine's Day,,Summer,,Low Unemployment,,266.475,296.4,8095
+19-01-2023,1004,225,Valentine's Day,,Summer,,Low Unemployment,,173.85,192.375,8095
+20-01-2023,1005,165,Valentine's Day,,Summer,,Low Unemployment,,205.9125,205.9125,8095
+21-01-2023,1001,160,Regular,,Summer,,Low Unemployment,,205.9125,205.9125,8095
+22-01-2023,1002,200,Regular,,Summer,,Low Unemployment,,248.6625,248.6625,8095
+23-01-2023,1003,180,Regular,,Summer,,Low Unemployment,,200.925,200.925,8095
+24-01-2023,1004,215,Regular,,Summer,,Low Unemployment,,190.2375,240.825,8095
+25-01-2023,1005,160,Regular,,Summer,,Low Unemployment,,427.5,448.1625,8095
+26-01-2023,1001,160,Winter Clearance,,Summer,,Low Unemployment,,429.6375,458.1375,8095
+27-01-2023,1002,210,Winter Clearance,,Summer,,Low Unemployment,,177.4125,177.4125,8095
+28-01-2023,1003,185,Winter Clearance,,Summer,,Low Unemployment,,87.6375,87.6375,8094
+29-01-2023,1004,225,Winter Clearance,,Fall,,Low Unemployment,,88.35,88.35,8094
+30-01-2023,1005,170,Winter Clearance,,Fall,,Low Unemployment,,85.5,85.5,8094
+31-01-2023,1001,155,Regular,,Fall,,Low Unemployment,,128.25,180.975,8094
+01-02-2023,1002,200,Regular,,Fall,,Low Unemployment,,127.5375,127.5375,8094
+02-02-2023,1003,180,Regular,,Fall,,Low Unemployment,,123.975,123.975,8094
+03-02-2023,1004,215,Regular,,Fall,,Low Unemployment,,139.65,164.5875,8094
+04-02-2023,1005,160,Regular,,Fall,,Low Unemployment,,235.8375,235.8375,8094
+05-02-2023,1001,160,Super Bowl,,Fall,,Low Unemployment,,234.4125,234.4125,8094
+06-02-2023,1002,210,Super Bowl,,Fall,,Low Unemployment,,235.125,235.125,8094
+07-02-2023,1003,185,Super Bowl,,Fall,,Low Unemployment,,227.2875,227.2875,8094
+08-02-2023,1004,225,Super Bowl,,Fall,,Low Unemployment,,312.7875,312.7875,8094
+09-02-2023,1005,170,Super Bowl,,Fall,,Low Unemployment,,210.9,210.9,8094
+10-02-2023,1001,165,Regular,,Fall,,Low Unemployment,,177.4125,177.4125,8094
+11-02-2023,1002,205,Regular,,Fall,,Low Unemployment,,177.4125,177.4125,8094
+12-02-2023,1003,175,Regular,,Fall,,Low Unemployment,,240.825,240.825,8094
+13-02-2023,1004,215,Regular,,Fall,,Low Unemployment,,213.0375,213.0375,8094
+14-02-2023,1005,160,Valentine's Day,,Fall,,Low Unemployment,,190.95,213.0375,8094
+15-02-2023,1001,342,Valentine's Day,,Winter,,Low Unemployment,,426.7875,448.1625,8094
+16-02-2023,1002,132,Valentine's Day,,Winter,,Low Unemployment,,426.7875,448.875,8094
+17-02-2023,1003,324,Valentine's Day,,Winter,,Low Unemployment,,426.7875,448.1625,8094
+18-02-2023,1004,154,Valentine's Day,,Winter,,Low Unemployment,,170.2875,170.2875,8094
+19-02-2023,1005,421,Valentine's Day,,Winter,,Low Unemployment,,,,

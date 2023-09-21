@@ -1,0 +1,50 @@
+date ,seasons,year ,month,Product id,Unit Sales,total_price,day,instant,Promotion Type,GDP,inflation_ rate,consumer confidence
+01-01-2018,summer ,2018,january,1001,150,99.0375,Tuesday,1,New Year Sale,21500,3.5,85
+02-01-2018,winter ,2018,march ,1002,200,99.0375,Monday,2,New Year Sale,23987,2.1,86
+03-01-2018,rainy,2018,december,1003,180,133.95,Sunday,3,New Year Sale,23590,5.2,88
+04-01-2018,autumn ,2018,september,1004,220,133.95,Saturday,4,New Year Sale,25400,2.3,83
+05-01-2018,winter ,2018,june,1005,170,141.075,Friday,5,New Year Sale,22100,2.6,74
+06-01-2018,rainy,2018,july,1001,160,227.2875,Thursday,6,Winter Clearance,23499,1.5,65
+07-01-2018,summer ,2018,august,1002,210,327.0375,Tuesday,7,Winter Clearance,24155,2.6,94
+08-01-2018,spring,2018,november,1003,185,210.9,Thursday,8,Winter Clearance,26477,4.3,65
+09-01-2018,summer ,2018,may,1004,230,190.2375,Friday,9,Winter Clearance,25446,5.6,75
+10-01-2018,spring,2018,january,1005,175,99.0375,Monday,10,Winter Clearance,27499,2.1,82
+11-01-2018,autumn ,2018,april,1001,155,97.6125,Sunday,11,Regular,25647,5.6,89
+12-01-2018,rainy,2018,july,1002,195,98.325,Saturday,12,Regular,27478,7.6,80
+13-01-2018,fall,2018,august,1003,175,133.2375,Wednesday,13,Regular,27846,4.5,85
+14-01-2018,rainy ,2018,october,1004,210,133.95,Friday,14,Regular,26599,3.4,84
+15-01-2018,summer ,2018,may,1005,160,139.65,Wednesday,15,Regular,24677,1.7,73
+16-01-2018,winter ,2018,june,1001,165,236.55,Thursday,16,Valentine's Day,29856,3.5,94
+17-01-2018,rainy,2018,februay,1002,215,214.4625,Tuesday,17,Valentine's Day,24567,2.1,95
+18-01-2018,autumn ,2018,june,1003,190,266.475,Sunday,18,Valentine's Day,20018,5.2,92
+19-01-2018,winter ,2018,july,1004,225,173.85,Monday,19,Valentine's Day,21900,2.3,61
+20-01-2018,rainy,2018,march ,1005,165,205.9125,Tuesday,20,Valentine's Day,23900,2.6,84
+21-01-2018,summer ,2018,april,1001,160,205.9125,Wednesday,21,Regular,24800,1.5,62
+22-01-2018,spring,2018,october,1002,200,248.6625,Sunday,22,Regular,26700,2.6,93
+23-01-2018,summer ,2018,august,1003,180,200.925,Thursday,23,Regular,28900,4.3,85
+24-01-2018,spring,2018,november,1004,215,190.2375,Friday,24,Regular,26700,5.6,86
+25-01-2018,autumn ,2018,october,1005,160,427.5,Monday,25,Regular,27900,2.1,88
+26-01-2018,rainy,2018,june,1001,160,429.6375,Saturday,26,Winter Clearance,21700,5.6,83
+27-01-2018,fall,2018,july,1002,210,177.4125,Sunday,27,Winter Clearance,25000,7.6,74
+28-01-2018,rainy ,2018,january,1003,185,87.6375,Friday,28,Winter Clearance,24500,4.5,65
+29-01-2018,summer ,2018,februay,1004,225,88.35,Thursday,29,Winter Clearance,27800,3.4,94
+30-01-2018,winter ,2018,march ,1005,170,85.5,Wednesday,30,Winter Clearance,28900,1.7,65
+31-01-2018,rainy,2018,april,1001,155,128.25,Sunday,31,Regular,24890,3.5,75
+01-02-2018,autumn ,2018,december,1002,200,127.5375,Friday,32,Regular,24700,2.1,82
+02-02-2018,winter ,2018,january,1003,180,123.975,Sunday,33,Regular,25640,5.2,89
+03-02-2018,rainy,2018,februay,1004,215,139.65,Saturday,34,Regular,24860,2.3,80
+04-02-2018,summer ,2018,august,1005,160,235.8375,Wednesday,35,Regular,27490,2.6,85
+05-02-2018,spring,2018,september,1001,160,234.4125,Thursday,36,Super Bowl,23790,1.5,84
+06-02-2018,summer ,2018,november,1002,210,235.125,Sunday,37,Super Bowl,24790,2.6,73
+07-02-2018,spring,2018,december,1003,185,227.2875,Thursday,38,Super Bowl,26700,4.3,94
+08-02-2018,autumn ,2018,june,1004,225,312.7875,Saturday,39,Super Bowl,26703,5.6,95
+09-02-2018,rainy,2018,july,1005,170,210.9,Friday,40,Super Bowl,27400,2.1,92
+10-02-2018,fall,2018,december,1001,165,177.4125,Monday,41,Regular,26590,5.6,61
+11-02-2018,rainy ,2018,january,1002,205,177.4125,Sunday,42,Regular,24658,7.6,84
+12-02-2018,summer ,2018,september,1003,175,240.825,Saturday,43,Regular,26780,4.5,62
+13-02-2018,winter ,2018,april,1004,215,213.0375,Thursday,44,Regular,24780,3.4,93
+14-02-2018,rainy,2018,may,1005,160,190.95,Tuesday,45,Valentine's Day,25670,1.7,56
+15-02-2018,autumn ,2018,january,1001,342,426.7875,Monday,46,Valentine's Day,24890,3.5,75
+16-02-2018,winter ,2018,februay,1002,132,426.7875,Friday,47,Valentine's Day,25780,2.1,83
+17-02-2018,rainy,2018,march ,1003,324,426.7875,Saturday,48,Valentine's Day,23670,5.2,82
+18-02-2018,summer ,2018,august,1004,154,170.2875,Sunday,49,Valentine's Day,25800,2.3,88
